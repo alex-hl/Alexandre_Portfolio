@@ -1,4 +1,4 @@
-# Data Analysis in R
+# Data Analysis in R:
 
 ## [Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)](https://github.com/alex-hl/analyzing_volatility_of_foreign_exchanges)
 
@@ -16,7 +16,7 @@ The goal of this analysis is to predict the Canadian federal election popular vo
 * Statistical methods were used to find which logistic regression model would best predict popular vote shares. 
 * Post-stratification was then used to determine which party would win the popular vote. 
 
-# Python Projects
+# Python Projects:
 
 ## [An Experiment to Compare Algorithms for Parcel Delivery](https://github.com/alex-hl/comparing_algorithms_for_parcel_delivery)
 
