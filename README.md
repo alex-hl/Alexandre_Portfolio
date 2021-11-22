@@ -21,5 +21,9 @@ bootstrap sampling Distribution of Variances. The method was performed for the E
 The goal of this analysis is to use multiple linear regression models in order to predict the evaluation score of a
 building. This is achieved by examining the number of units in a building, the age of the building, and the property type of the building. Multiple models were built to see which variable best explains the evalution score. This analysis is conducted using the Apartment Building Evaluation data set provided by the Toronto open data portal. 
 
-## Data Analysis in R: Predicting the Canadian Federal Election Popular Vote Using Logistic Regression Models and Post-Stratification
+## Data Analysis in R: Predicting the Canadian Popular Vote
+
+The goal of this analysis is to predict the Canadian federal election popular vote using logistic regression models and post-stratification.
+* Statistical methods were used to find which logistic regression model would best predict popular vote shares. 
+* Post-stratification was then used to determine which party would win the popular vote. 
 
