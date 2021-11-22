@@ -16,7 +16,7 @@ The goal of this analysis is to predict the Canadian federal election popular vo
 * Statistical methods were used to find which logistic regression model would best predict popular vote shares. 
 * Post-stratification was then used to determine which party would win the popular vote. 
 
-# Python Project
+# Python Projects
 
 ## An Experiment to Compare Algorithms for Parcel Delivery
 
