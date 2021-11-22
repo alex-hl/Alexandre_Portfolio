@@ -1,6 +1,6 @@
 # Data Analysis in R
 
-## Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)
+## [Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)](https://github.com/seine78/analyzing_volatility_of_foreign_exchanges)
 
 The goal of this analysis is to explore degrees of uncertainty for Canadian foreign exchange rates using
 bootstrap sampling Distribution of Variances. The method was performed for the EUR/CAD and USD/CAD exchange rates. The tidyverse library was used to perform the EDA and showcase results. 
@@ -8,7 +8,7 @@ bootstrap sampling Distribution of Variances. The method was performed for the E
 ## Regression Analysis of Apartment Building Evaluation in Toronto
 
 The goal of this analysis is to use multiple linear regression models in order to predict the evaluation score of a
-building. This is achieved by examining the number of units in a building, the age of the building, and the property type of the building. Multiple models were built to see which variable best explains the evalution score. This analysis is conducted using the Apartment Building Evaluation data set provided by the Toronto open data portal. 
+building. This is achieved by examining the number of units in a building, the age of the building, and the property type of the building. Multiple models were built to see which variables best explain the evalution score. This analysis is conducted using the Apartment Building Evaluation data set provided by the Toronto open data portal. 
 
 ## Predicting the Canadian Popular Vote
 
@@ -27,6 +27,6 @@ In this project I have made the use a of a random algorithm and a greedy algorit
 
 ## [Automated Puzzle Solving](https://github.com/seine78/automated_puzzle_solving)
 
-In this project I have implemented breadth-first search and depth-first search algorithms to solve logic puzzles. The algorithms were able to solve sodkus, word ladder, and expression tree puzzle. Some highlights of the steps taken are:
+In this project I have implemented breadth-first search and depth-first search algorithms to solve logic puzzles. The algorithms were able to solve sodkus, word ladders, and expression tree puzzles. Some highlights of the steps taken are:
 * Implement clases for the bfs and dfs solver
 * Implement classes for each puzzles which specifies conditions on how to be solved
