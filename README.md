@@ -1,6 +1,6 @@
 # Data Analysis in R
 
-## [Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)](https://github.com/seine78/automated_puzzle_solving){:target="\_blank"}
+## Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)
 
 The goal of this analysis is to explore degrees of uncertainty for Canadian foreign exchange rates using
 bootstrap sampling Distribution of Variances. The method was performed for the EUR/CAD and USD/CAD exchange rates. The tidyverse library was used to perform the EDA and showcase results. 
@@ -25,7 +25,7 @@ In this project I have made the use a of a random algorithm and a greedy algorit
 * Modeling a domain to implement necessary classes
 * Implementing the algorithms
 
-## Automated Puzzle Solving
+## [Automated Puzzle Solving](https://github.com/seine78/automated_puzzle_solving)
 
 In this project I have implemented breadth-first search and depth-first search algorithms to solve logic puzzles. The algorithms were able to solve sodkus, word ladder, and expression tree puzzle. Some highlights of the steps taken are:
 * Implement clases for the bfs and dfs solver
