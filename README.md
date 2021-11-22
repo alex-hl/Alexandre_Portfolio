@@ -14,5 +14,12 @@ In this project I have implemented breadth-first search and depth-first search a
 ## Data Analysis in R: Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)
 
 The goal of this analysis is to explore degrees of uncertainty for Canadian foreign exchange rates using
-bootstrap sampling Distribution of Variances. Performed for the EUR/CAD and USD/CAD exchange rates.
+bootstrap sampling Distribution of Variances. The method was performed for the EUR/CAD and USD/CAD exchange rates. The tidyverse library was used to perform the EDA and showcase results. 
+
+## Data Analysis in R: Regression Analysis of Apartment Building Evaluation in Toronto
+
+The goal of this analysis is to use multiple linear regression models in order to predict the evaluation score of a
+building. This is achieved by examining the number of units in a building, the age of the building, and the property type of the building. Multiple models were built to see which variable best explains the evalution score. This analysis is conducted using the Apartment Building Evaluation data set provided by the Toronto open data portal. 
+
+## Data Analysis in R: Predicting the Canadian Federal Election Popular Vote Using Logistic Regression Models and Post-Stratification
 
