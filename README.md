@@ -1,6 +1,6 @@
 # Data Analysis in R
 
-## [Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)](https://github.com/seine78/automated_puzzle_solving)
+## [Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)](https://github.com/seine78/automated_puzzle_solving){:target="\_blank"}
 
 The goal of this analysis is to explore degrees of uncertainty for Canadian foreign exchange rates using
 bootstrap sampling Distribution of Variances. The method was performed for the EUR/CAD and USD/CAD exchange rates. The tidyverse library was used to perform the EDA and showcase results. 
