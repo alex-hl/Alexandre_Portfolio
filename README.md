@@ -1,3 +1,12 @@
+# Web App in R:
+
+## Security Characteristic Line Web App
+
+The web app is a calculator that allows the user to find out which publicly traded security has generated positive alpha in the past 5 years for any inputted ticker. The calculator also provides the security's beta, and its security characteristic line. The data used is updated in real time every time the user presses compute. Everything is hosted using shinyapp.io. Some of the tools used to code the app include:
+* The shiny apps package in R
+* The tidyquant package which provides real time updated stock and economic data
+* The plotly package to make a user interactive plot of the security characteristic line
+
 # Data Analysis in R:
 
 ## [Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)](https://github.com/alex-hl/analyzing_volatility_of_foreign_exchanges)
