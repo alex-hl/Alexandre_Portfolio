@@ -2,7 +2,7 @@
 
 ## [Security Characteristic Line Web App](https://alex-hl.shinyapps.io/scl_app/)
 
-App:[https://alex-hl.shinyapps.io/scl_app/](https://alex-hl.shinyapps.io/scl_app/)  
+App: [https://alex-hl.shinyapps.io/scl_app/](https://alex-hl.shinyapps.io/scl_app/)  
 Code: [here](https://github.com/alex-hl/securitymarketline_webapp)
 
 The web app is a calculator that allows the user to find out which publicly traded security has generated positive alpha in the past 5 years for any inputted ticker. The calculator also provides the security's beta, and its security characteristic line. The data used is updated in real time every time the user presses compute. Everything is hosted using shinyapp.io. Some of the tools used to code the app include:
