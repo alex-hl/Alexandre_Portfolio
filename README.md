@@ -17,7 +17,7 @@ Built a Long Short-Term Memory model integrated in an app. It allows the app use
 * The shiny, tidyquant, and plotly packages in R
 * Tensorflow is used to run the LSTM model
 
-[](https://github.com/alex-hl/lstm_stock_prediction_app/blob/main/examples/SPY.png)
+![](https://github.com/alex-hl/lstm_stock_prediction_app/blob/main/examples/SPY.png)
 
 # Data Analysis in R:
 
