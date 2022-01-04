@@ -15,6 +15,7 @@ The web app is a calculator that allows the user to find out which publicly trad
 Built a Long Short-Term Memory model integrated in an app. It allows the app user to predict the closing prices of any publicly traded security. Some of the tools used to code the model and the app include:
 * The numpy, pandas, and sklearn packages to manipulate data in python
 * The shiny, tidyquant, and plotly packages in R
+* Tensorflow is used to run the LSTM model
 
 # Data Analysis in R:
 
