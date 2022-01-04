@@ -1,4 +1,4 @@
-# Web App in R:
+# Interactive Apps R:
 
 ## [Security Characteristic Line Web App](https://alex-hl.shinyapps.io/scl_app/)
 
@@ -9,6 +9,12 @@ The web app is a calculator that allows the user to find out which publicly trad
 * The shiny apps package in R
 * The tidyquant package which provides real time updated stock and economic data
 * The plotly package to make a user interactive plot of the security characteristic line
+
+## [LSTM Stock Price Prediction App](https://github.com/alex-hl/lstm_stock_prediction_app)
+
+Built a Long Short-Term Memory model integrated in an app. It allows the app user to predict the closing prices of any publicly traded security. Some of the tools used to code the model and the app include:
+* The numpy, pandas, and sklearn packages to manipulate data in python
+* The shiny, tidyquant, and plotly packages in R
 
 # Data Analysis in R:
 
