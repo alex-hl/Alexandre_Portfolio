@@ -19,7 +19,19 @@ Built a Long Short-Term Memory model integrated in an app. It allows the app use
 
 ![](/images/SPY.png)
 
-# Data Analysis in R:
+# Statistical Modeling in R:
+
+## [Statistical machine learning applications using R](https://github.com/alex-hl/statistical_machine_learning_applications_in_R)
+
+This project covers statistical methods and machine learning algorithms, emphasizing practical application and analysis in a variety of contexts.
+
+* Subset Selection Techniques: Comparative analysis of best subset, forward, and backward selection methods.
+* k-Nearest Neighbors & Local Linear Regression: Exploration of standard and weighted variants for model precision.
+* Digit Recognition with Discriminant Analysis: Implementing Linear and Quadratic Discriminant Analysis, and Naive Bayes for effective digit classification.
+* Ridge & Lasso Regression Analysis: Insightful examination of these techniques on simulated datasets.
+* Polynomial Regression on Boston Housing Data: Application of complex regression models to a real-world dataset.
+* Penalized Logistic Regression for Digit Classification: Focused study on enhancing logistic regression models for improved accuracy in digit recognition.
+
 
 ## [Analyzing Volatility of foreign exchanges (EUR/CAD and USD/CAD)](https://github.com/alex-hl/analyzing_volatility_of_foreign_exchanges)
 
